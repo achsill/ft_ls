@@ -1,13 +1,13 @@
-# ft_ls
+#ft_ls
 
-** Introduction: **
+**Introduction:**
 
 Recoder la commande ls et certaines de ses options vous permettra de découvrir
 comment intéragir avec le système de fichiers depuis un programme en C. Après tout,
 vous savez déja comment ouvrir, lire, écrire et fermer un fichier. Mais qu’en est-il des
 répertoires ? Des fichiers spéciaux ? Des droits, des dates ou de la taille des fichiers ?
 
-** Objectifis: **
+**Objectifis:**
 
 Le projet ft_ls vous ouvre la voie de l’arc Unix du graph de projets. Vous allez
 pour la première fois être confrontés à des fonctions de la libc vous permettant autre
